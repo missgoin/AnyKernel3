@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=D.kernel Redmi 5 (Rosy) by Dexter001 @ xda-developers
+kernel.string=Sunny-Go Redmi 5 (Rosy) by LuffyTaro008 @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
