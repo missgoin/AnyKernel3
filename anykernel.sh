@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=rosy
 device.name2=Redmi 5
-supported.versions=7.1.2-11
+supported.versions=
 '; } # end properties
 
 # shell variables
