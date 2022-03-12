@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sunny-Go Redmi 5 (Rosy) by LuffyTaro008 @ xda-developers
+kernel.string=-Thousand-Sunny-Go Poco X3 Pro (Vayu) by LuffyTaro008 @ telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rosy
-device.name2=Redmi 5
+device.name1=vayu
+device.name2=bhima
 supported.versions=
 '; } # end properties
 
