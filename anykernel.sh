@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=-Thousand-Sunny-Go Poco X3 Pro (Vayu) by LuffyTaro008 @ telegram
+kernel.string=SUPER KERNEL
 do.devicecheck=1
 do.modules=0
 do.systemless=1
