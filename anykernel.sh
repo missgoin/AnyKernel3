@@ -16,7 +16,7 @@ supported.versions=
 '; } # end properties
 
 # shell variables
-block=auto;
+block=/dev/block/bootdevice/by-name/boot;
 is_slot_device=auto;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
